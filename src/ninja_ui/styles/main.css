@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@300&family=Lato&display=swap');
+
+body{ font-size: 1.2em;
+    font-family: 'Lato', sans-serif; }
+
+.container{ margin: 40px; margin-top: 60px; }
+
+button{ 
+  width: 200px; 
+  background: #D4EEC3; 
+  padding: 10px; 
+  margin: 20px auto;
+  border: none;
+  border-radius: 4px;
+  font-size: 1em;
+  cursor: pointer;
+  display: block;
+}
+
+.sample{
+  background-color: #fafafa;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: solid 0.3px #eeeeee;
+}
+
+.intro{
+  text-align: center;
+  padding: 0px 20px;
+  border-radius: 10px;
+  border: solid 0.3px #eeeeee;
+  background-color: #D4EEC3;
+}
